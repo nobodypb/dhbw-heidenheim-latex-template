@@ -11,6 +11,9 @@
 *.cb
 *.cb2
 
+## Content files to be changed by user
+content/
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
